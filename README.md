@@ -1,1 +1,2 @@
-# Code-Foundation-for-ROS-EXAM
+# Code Foundation for ROS (Prerequisites EXAM)
+# Score: 10/10
